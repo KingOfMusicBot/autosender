@@ -1,0 +1,26 @@
+{
+  "name": "Telegram Music Resume Bot",
+  "description": "Pyrogram userbot with resume support for /play songs",
+  "env": {
+    "API_ID": { "required": true },
+    "API_HASH": { "required": true },
+    "SESSION_STRING": { "required": true },
+    "GROUP_ID": { "required": true },
+    "HEROKU_APP_NAME": { "required": true },
+    "HEROKU_API_KEY": { "required": true },
+    "DELAY": {
+      "required": false,
+      "value": "60"
+    },
+    "LAST_INDEX": {
+      "required": false,
+      "value": "0"
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
