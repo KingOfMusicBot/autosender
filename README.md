@@ -1,6 +1,16 @@
 # Telegram Music Resume Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deployhttps://github.com/KingOfMusicBot/autosender)
+<p align="center"><a
+
+href="https://dashboard.heroku.com/new ?
+
+template=https://github.com/itzshukla/
+
+PikuMusic"> <img
+
+src="https://www.herokucdn.com/deploy/
+
+button.svg"></a></p>
 
 ### Required
 - API_ID
