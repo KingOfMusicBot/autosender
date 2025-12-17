@@ -13,7 +13,7 @@ DELAY = int(os.environ.get("DELAY", 60))
 SESSION_STRING = os.environ.get("SESSION_STRING")   # Heroku
 SESSION_NAME = os.environ.get("SESSION_NAME", "music_user")  # VPS
 
-SONG_FILE = "songs.json"
+SONG_FILE = "old_hindi_top_1000.json"
 PROGRESS_FILE = "progress.json"
 
 
