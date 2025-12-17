@@ -1,7 +1,12 @@
 # Telegram Music Resume Bot
 
-<p align="center"><a
-href="https://dashboard.heroku.com/new?template=https://github.com/KingOfMusicBot/autosender"> <imgsrc="https://www.herokucdn.com/deploy/button.svg"></a></p>
+Press the below button to Fast deploy on Heroku/Raiwlay
+Either you could locally host or deploy on [Heroku](https://heroku.com)
+### 💜 Heroku
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/PikuMusic"> <img src="https://www.herokucdn.com/deploy/button.svg"></a></p>
+
+<br>
 ### Required
 - API_ID
 - API_HASH
