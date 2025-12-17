@@ -1,17 +1,7 @@
 # Telegram Music Resume Bot
 
 <p align="center"><a
-
-href="https://dashboard.heroku.com/new ?
-
-template=https://github.com/itzshukla/
-
-PikuMusic"> <img
-
-src="https://www.herokucdn.com/deploy/
-
-button.svg"></a></p>
-
+href="https://dashboard.heroku.com/new?template=https://github.com/KingOfMusicBot/autosender"> <imgsrc="https://www.herokucdn.com/deploy/button.svg"></a></p>
 ### Required
 - API_ID
 - API_HASH
